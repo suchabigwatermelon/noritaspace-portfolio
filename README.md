@@ -10,6 +10,7 @@ This first version is intentionally static: there is no framework, build step, b
 NoritaSpace/
 ├── index.html   # Page content and semantic structure
 ├── case-sop.html # First project case note
+├── case-questionnaire.html # Second project case note
 ├── styles.css   # Visual system, layout, and responsive styles
 ├── script.js    # Mobile navigation and active-section state
 ├── favicon.svg  # Local SVG favicon placeholder
@@ -100,11 +101,18 @@ This project is a static website and does not require a backend or build step.
 - Added an anonymized sample output block to the first case note page.
 - Improved the evidence and credibility of the bootcamp SOP case.
 
+### v1.7
+
+- Added the second case note page for the questionnaire feedback analysis project.
+- Connected the second project card to the new case page.
+- Added structured case sections including context, challenge, role, process, output, sample analysis structure, and demonstrated skills.
+
 ### Next
 
-- Add visual screenshots or diagrams if appropriate.
-- Create the second case note page.
+- Create the third case note page for the Word agenda automation project.
+- Add project screenshots or visual evidence where appropriate.
 - Continue refining portfolio copy based on job application needs.
+- Plan bilingual structure for v2.0.
 
 ## Possible next steps
 
