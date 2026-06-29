@@ -95,11 +95,15 @@ This project is a static website and does not require a backend or build step.
 - Connected the first project card to the new case page.
 - Added structured case sections including context, challenge, role, process, output, and demonstrated skills.
 
+### v1.6
+
+- Added an anonymized sample output block to the first case note page.
+- Improved the evidence and credibility of the bootcamp SOP case.
+
 ### Next
 
-- Add project screenshots or visual evidence.
-- Create more case note pages.
-- Add bilingual content strategy if needed.
+- Add visual screenshots or diagrams if appropriate.
+- Create the second case note page.
 - Continue refining portfolio copy based on job application needs.
 
 ## Possible next steps
