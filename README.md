@@ -107,12 +107,18 @@ This project is a static website and does not require a backend or build step.
 - Connected the second project card to the new case page.
 - Added structured case sections including context, challenge, role, process, output, sample analysis structure, and demonstrated skills.
 
+### v1.8
+
+- Added the third case note page for the Word agenda automation project.
+- Connected the third project card to the new case page.
+- Added structured case sections including context, challenge, role, process, output, sample workflow structure, and demonstrated skills.
+
 ### Next
 
-- Create the third case note page for the Word agenda automation project.
+- Refine homepage copy based on the three completed case notes.
 - Add project screenshots or visual evidence where appropriate.
-- Continue refining portfolio copy based on job application needs.
 - Plan bilingual structure for v2.0.
+- Create additional case note pages if needed.
 
 ## Possible next steps
 
