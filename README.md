@@ -9,6 +9,7 @@ This first version is intentionally static: there is no framework, build step, b
 ```text
 NoritaSpace/
 ├── index.html   # Page content and semantic structure
+├── case-sop.html # First project case note
 ├── styles.css   # Visual system, layout, and responsive styles
 ├── script.js    # Mobile navigation and active-section state
 ├── favicon.svg  # Local SVG favicon placeholder
@@ -88,12 +89,18 @@ This project is a static website and does not require a backend or build step.
 - Improved placeholder link behavior.
 - Added deployment instructions for GitHub Pages and Vercel.
 
+### v1.5
+
+- Added the first case note page for the bootcamp on-site execution SOP project.
+- Connected the first project card to the new case page.
+- Added structured case sections including context, challenge, role, process, output, and demonstrated skills.
+
 ### Next
 
-- Deploy the site.
-- Add real project screenshots.
-- Create individual case note pages.
-- Add a custom domain if needed.
+- Add project screenshots or visual evidence.
+- Create more case note pages.
+- Add bilingual content strategy if needed.
+- Continue refining portfolio copy based on job application needs.
 
 ## Possible next steps
 
